@@ -15,3 +15,9 @@ Adventure Game: Robot Repair (Unity Technologies), Unity 6.3, URP.
 Що не вийшло або забрало найбільше часу: Найбільше заплуталася з переносом проєкту в папки GitHub Desktop, бо довго не показувало зміни.
 Що зрозуміла як налаштовувати кнопки.
 Що робитиму далі: Переходжу до Юніта 2, щоб додати фізику та стіни.
+
+
+## Unit 2: Environment and Physics
+- Налаштовано 2D Physics та шар сортування Y-Sorting (Custom Axis Y = 1).
+- Реалізовано рух персонажа через Rigidbody2D.MovePosition у FixedUpdate.
+- Налаштовано колайдери перешкод (Box Collider 2D, Tilemap Collider 2D, Composite Collider 2D).
